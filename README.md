@@ -3,6 +3,7 @@ Day 5 – Running a Local AI Model
 Model: Qwen 2.5:3B  
 Platform: Ollama  
 Model Size: Approximately 1.9 GB
+Response Time: Approximately 10 seconds per run
 
 Task
 Asked the model to solve five basic mathematical calculations. The same prompt was submitted twice.
